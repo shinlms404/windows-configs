@@ -17,3 +17,4 @@ Configuration files used when setting up the computer
 - [Git for Windows](https://gitforwindows.org/)
 - [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
 - [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
+- [Nerd Fonts](https://www.nerdfonts.com/) - Hack Nerd Font
