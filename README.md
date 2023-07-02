@@ -1,4 +1,4 @@
-# Windows configs
+# Configs
 Configuration files used when setting up the computer
 
 **Warning**: Before copying the configuration file, you need to install the required plug-ins below, and you can delete the content in the configuration file according to your needs.
